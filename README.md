@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mohammed Owais
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning at AppliedAI
-- 💞️ I’m looking to collaborate on any Machine learning projects
+- 👀 I’m interested in Data Analytics, Machine Learning and Artificial Intelligence
+- 🌱 I’m currently upskilling in the field of AI
 - 📫 How to reach me - mohammedowais36@gmail.com
 
 <!---
